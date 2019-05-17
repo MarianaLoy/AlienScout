@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Platform
+  - Coin
+  - Laser
+  - Enemy
+  - NutCoin
+  - Mushroom
+  - Lava
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 3932488959
+    locked: 0
+  - name: Foreground
+    uniqueID: 2513212125
+    locked: 0
+  - name: ForegroundEnemies
+    uniqueID: 1022683327
+    locked: 0
+  - name: UI
+    uniqueID: 2464133541
+    locked: 0
